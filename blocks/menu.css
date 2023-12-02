@@ -35,8 +35,6 @@
   justify-content: center;
   flex-wrap: wrap;
   gap: 100px;
-<<<<<<< HEAD
-=======
 }
 
 .card {
@@ -71,5 +69,4 @@
 .card__list-divider {
   flex-grow: 1;
   border-bottom: 1px solid #000000;
->>>>>>> 9ef53a92d7e59a702deeae5042273780e28e3be1
 }
