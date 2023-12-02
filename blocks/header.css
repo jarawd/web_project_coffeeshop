@@ -17,37 +17,6 @@
   line-height: 20px;
 }
 
-.nav {
-  display: flex;
-  justify-content: space-between;
-}
-
-.nav__logo {
-  width: 105px;
-  height: 39px;
-  position: relative;
-  left: -50px;
-}
-
-.nav__links {
-  display: flex;
-  justify-content: space-between;
-}
-
-.nav__link {
-  text-decoration: none;
-  color: inherit;
-  transition: color 0.5s ease;
-}
-
-.nav__link:hover {
-  color: #2F80ED;
-}
-
-.nav__link:not(:first-of-type) {
-  margin-left: 20px;
-}
-
 .header__title {
   max-width: 729px;
   margin-top: 183px;
