@@ -13,3 +13,11 @@ PLANES DE MEJORA:
 - Transiciones en los enlaces y título principal.
 - Mantener el nav fijo en la parte superior para versiones de escritorio y en la parte inferior para versiones mobile.
 - Crear una animación con en el header con la imagen de fondo que esté siempre en constane movimiento como atractivo visual.
+
+FUNCIONES:
+
+1. **Reservación online de una mesa**
+   ![Reservation section](image.png)
+
+2. **Menú con las secciones que te llevan a distintas secciones de la página sin necesidad de hacer scroll**
+   ![Sections menu](image-1.png)
